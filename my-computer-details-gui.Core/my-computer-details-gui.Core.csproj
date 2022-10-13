@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>my_computer_details_gui.Core</RootNamespace>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+</Project>
